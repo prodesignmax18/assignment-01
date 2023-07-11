@@ -304,6 +304,40 @@ input{
 }
 
 
+/* Footer section */
+
+.footer{
+    height: 420px;
+    background: #111010;
+
+}
+.footer-content{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 150px;
+    padding-bottom: 0%;
+
+}
+.foort-title{
+    color: #fdfdfd;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 20px;
+
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.foort-copy{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
 
 
 
