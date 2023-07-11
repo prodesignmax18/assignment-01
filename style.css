@@ -1,3 +1,4 @@
+/* Body related style */
 
 body{
     font-family: 'Lato', sans-serif;
@@ -7,6 +8,13 @@ body{
 }
 
 *{margin: 0;}
+
+
+
+
+/* Header related style */
+
+
 
 .header-part{
     background-color: #e5547321;
@@ -22,14 +30,14 @@ body{
 .banner-title{
     color: #272727;
     font-size: 50px;
-    font-weight: 800;
+    font-weight: 900;
     margin-bottom: 32px;
 
     
 }
 .banner-description{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     margin-bottom: 32px;
 
@@ -51,3 +59,123 @@ body{
     height: 480px;
     margin-top: auto;
 }
+
+
+/* Main related style */
+
+
+
+main{
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+.flower-box{
+    margin-bottom: 40px;
+
+}
+.featured-name{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+
+.featured-content{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.all-beauty{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+}
+
+
+.flower-list-1{
+    width: 264px;
+    height: 290px;
+    background-color:#a721623b;
+    border-radius: 300px 300px 0px 0px;
+
+}
+.flower-list-2{
+    width: 264px;
+    height: 290px;
+    background-color:#0598a03d;
+    border-radius: 300px 300px 0px 0px;
+
+}
+.flower-list-3{
+    width: 264px;
+    height: 290px;
+    background-color:#477d1146;
+    border-radius: 300px 300px 0px 0px;
+
+}
+.img1{
+    width: 70%;
+    margin-top: 35px;
+}
+.img2{
+    width: 95%;
+    margin-top: 35px;
+}
+.img3{
+    width: 70%;
+    margin-top: 12px;
+}
+.bally {
+   width: 100%;
+
+}
+.img-div{
+display: flex;
+justify-content: center;
+}
+
+.flower-name{
+    color: #272727;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 32px;
+
+}
+
+.support-section{
+    height: 320px;
+    background-color: #2727271c;
+    border-radius: 8px;
+    margin-bottom: 128px;
+    text-align: center;
+    display: flex;
+    
+
+}
+
+#icons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+.support-icone-1{
+    align-items: center;
+}
+
+
+
+
+
+
+
