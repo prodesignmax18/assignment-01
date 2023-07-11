@@ -156,11 +156,13 @@ main{
 }
 
 .support-section{
-    height: 320px;
+    height: 180px;
     background-color: #2727271c;
     border-radius: 8px;
     margin-bottom: 128px;
     text-align: center;
+    padding-top: 60px;
+    padding-bottom: 0;
 
 }
 
